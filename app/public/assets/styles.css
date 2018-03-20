@@ -7,3 +7,9 @@ h2{
 footer > a {
     font-size:.8em;
 }
+input{
+    margin-bottom:1em;
+}
+select{
+    margin-bottom:1em;
+}
