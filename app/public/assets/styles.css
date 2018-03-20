@@ -1,0 +1,9 @@
+h2{
+    color:red
+}
+#best-match-info > img{
+    max-width: 200px;
+}
+footer > a {
+    font-size:.8em;
+}
